@@ -1,0 +1,18 @@
+.addTransaction {
+  text-align: left;
+  margin: 2em 0;
+}
+
+.addTransaction form {
+  padding: 1em 0;
+  border-top: 1px solid lightgrey;
+}
+.addTransaction form input {
+  outline: none;
+  padding: 0.2em;
+  border: none;
+}
+
+.addTransaction form button {
+  padding: 2px 10em;
+}

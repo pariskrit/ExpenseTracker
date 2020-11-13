@@ -1,0 +1,14 @@
+.incomeexpense {
+  display: flex;
+  justify-content: space-evenly;
+
+  background-color: whitesmoke;
+  margin: auto;
+}
+
+.income p {
+  color: lightgreen;
+}
+.expense p {
+  color: red;
+}

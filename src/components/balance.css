@@ -1,0 +1,8 @@
+.balance h5,
+.balance h1 {
+  margin: 0;
+}
+
+.balance {
+  text-align: left;
+}

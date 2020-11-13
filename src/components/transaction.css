@@ -1,0 +1,29 @@
+.transactions {
+  margin: auto;
+  padding-top: 1em;
+}
+
+.transactions strong {
+  border-bottom: 1px solid lightgray;
+}
+
+.transaction__itemincome {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em 0;
+  padding: 0 1em;
+  border-right: 2px solid green;
+  border-bottom: 1px solid lightgray;
+}
+.transaction__itemexpense {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1em;
+  border-right: 2px solid red;
+  border-bottom: 1px solid lightgray;
+}
+
+.MuiSvgIcon-root {
+  color: red !important;
+  cursor: pointer;
+}
